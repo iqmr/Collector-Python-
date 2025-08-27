@@ -1,1 +1,1 @@
-# Collection of apps and scripts on pythonHere you will find small projects and scripts that are not serious enough to be separate.
+### _Collection of apps and scripts on python_Here you will find small projects and scripts that are not serious enough to be separate.
